@@ -1,1 +1,0 @@
-Type,StudentID,UcCode1,ClassCode1,UcCode2,ClassCode2
